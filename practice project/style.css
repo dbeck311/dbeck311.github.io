@@ -28,7 +28,8 @@ img {
 	margin: 0 auto;
 }
 #sidebar-id {
+	box-sizing: 20px
 	font-size: 10px;
 	font-family: 'Pacifico', cursive;
-	margin-left: 47px
+	margin-left: 20px
 }
