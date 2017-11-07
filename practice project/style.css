@@ -30,5 +30,5 @@ img {
 #sidebar-id {
 	font-size: 10px;
 	font-family: 'Pacifico', cursive;
-	text-align: left;
+	float: left;
 }
