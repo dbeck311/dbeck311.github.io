@@ -6,10 +6,10 @@ var myImage = document.querySelector('img');
 
 myImage.onclick = function() {
     var mySrc = myImage.getAttribute('src');
-    if(mySrc === '/Users/ieqadministrator/Desktop/practice project/Images/smiley.jpeg') {
-      myImage.setAttribute ('src','/Users/ieqadministrator/Desktop/practice project/Images/smiley_2.jpeg');
+    if(mySrc === 'dbeck311.github.io/practice project/Images/smiley.jpeg') {
+      myImage.setAttribute ('src','dbeck311.github.io/practice project/Images/smiley_2.jpeg');
     } else {
-      myImage.setAttribute ('src','/Users/ieqadministrator/Desktop/practice project/Images/smiley.jpeg');
+      myImage.setAttribute ('src','dbeck311.github.io/practice project/Images/smiley.jpeg');
     }
 }
 
