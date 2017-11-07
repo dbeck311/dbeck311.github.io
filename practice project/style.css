@@ -31,5 +31,5 @@ img {
 	box-sizing: 20px
 	font-size: 10px;
 	font-family: 'Pacifico', cursive;
-	margin-left: 20px
+	float: left;
 }
