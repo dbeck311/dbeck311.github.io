@@ -27,9 +27,10 @@ img {
 	display: block;
 	margin: 0 auto;
 }
-.sidebar {
-	box-sizing: 20px
+.sidebar a {
+	padding:
 	font-size: 10px;
 	font-family: 'Pacifico', cursive;
 	float: left;
+	display: block;
 }
