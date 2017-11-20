@@ -34,6 +34,6 @@ img {
 	padding: 14px
 	font-size: 10px;
 	font-family: 'Pacifico', cursive;
-	float: margin-left;
+	float: margin-left 50px;
 	display: block;
 }
