@@ -31,9 +31,9 @@ img {
 }
 
 .sidebar a {
-	padding: 14px
+	padding: 8px 14px
 	font-size: 10px;
 	font-family: 'Pacifico', cursive;
-	float: margin-left 50px;
+	position: left;
 	display: block;
 }
