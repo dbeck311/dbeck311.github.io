@@ -27,7 +27,7 @@ body {
 img {
 	display: block;
 	margin: 0 auto;
-	float: right
+	float: center-top
 }
 
 .sidebar a {
